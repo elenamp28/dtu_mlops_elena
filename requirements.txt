@@ -1,5 +1,4 @@
 # Documentation
-test
 mkdocs-material>=9.4.6
 mkdocs-glightbox>=0.3.2
 mkdocs-material-extensions
